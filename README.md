@@ -12,3 +12,8 @@ Onto a diiferent sheet,I further discovered the data through coming up with vari
 Among the Pivots were: Revenue by Month,No.of Transactions per product type,No.of Transactions per Product Type,No.of Transactions per Hour of Day and Top 15 product types by No.of Transactions.
 
 **Insghts from The Data**
+In an overview summary,Coffee Sales has been increasing from January,despite a litle dip in Feb.Sales from Coffee product type contributes a significant stake to sales made by no.of transactions while Packaged Chocolate was least bought across the three branches.
+Additionaly, 'sales time' re morning hours from 6:00 a.m to about 10:00 a.m where it reduces to a level of no change in sales from 11:00 a.m upto 6:00 p.m that expreince fewer sales upto closure time(8:00 a.m)
+
+**Tool used**
+Excel 
